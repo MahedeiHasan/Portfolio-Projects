@@ -9,3 +9,10 @@
 - Data Cleaning Project Queries.sql : Update, Remove Duplicate, Change, set value, etc.
 
 # Programs:
+
+
+
+
+
+# Connect With ME
+[Linkedin](https://www.linkedin.com/in/mahedei-hasan-391793204/)
